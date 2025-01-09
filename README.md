@@ -7,7 +7,7 @@ Overall, the web chat application empowers users with a convenient and engaging 
 For example, a web chat application allows users to create accounts, log in securely, and access a feature-rich chat interface. Once logged in, users can engage in one-on-one conversation chats based on shared interests or organizational purposes.
 Users can send and receive real-time text messages, fostering instant and dynamic communication. They can also share files, such as images, documents, or videos, directly within the chat interface, enhancing collaboration and information exchange.
 
-## A few sample screenshot
+## sample screenshots
 ### Main Page:-
   ![Register](https://github.com/dragonwolf1o1/Web-Bassed-Chat-Application/assets/104382438/204592bb-b443-4e36-b1bc-d99d93c35d9b)
 
